@@ -19,4 +19,4 @@
 
 ### Auteurs
 
-Paul RENAUlT, Alexandre BOURDOIS, Geoffroy PIGEON, Paul MOREAU.
+Paul RENAULT, Alexandre BOURDOIS, Geoffroy PIGEON, Paul MOREAU.
