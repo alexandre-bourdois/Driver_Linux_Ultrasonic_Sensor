@@ -1,22 +1,21 @@
-## Driver pour un capteur à ultrasons interfacé avec un système Linux
+## Driver for an Ultrasonic Sensor interfaced with a Linux System
 
-### Description de la solution
+### Solution Description
 
-1. Connexion à la carte via *ssh*
+1. Connect to the board via *ssh*.
 
-2. Se placer dans le répertoire */dossierTest*
+2. Navigate to the directory `/testFolder`.
 
-3. *make*
+3. Run `make`.
 
-4. Lancer le driver avec *sudo insmod main.ko*
+4. Load the driver using `sudo insmod main.ko`.
 
-5. Mettre la pin 17 à l'état haut pour émettre un signal sur la pin trigger
+5. Set pin 17 to high to emit a signal on the trigger pin.
 
-6. Regarder les logs du kernel pour contrôler la distance mesurée avec *dmesg*
+6. Monitor the kernel logs to check the measured distance with `dmesg`.
 
-7. Arrêter le driver avec *sudo rmmod main.ko*
+7. Unload the driver using `sudo rmmod main.ko`.
 
-
-### Auteurs
+### Authors
 
 Paul RENAULT, Alexandre BOURDOIS, Geoffroy PIGEON, Paul MOREAU.
