@@ -18,4 +18,4 @@
 
 ### Authors
 
-Paul RENAULT, Alexandre BOURDOIS, Geoffroy PIGEON, Paul MOREAU.
+Paul RENAULT, [**Alexandre BOURDOIS**](https://github.com/alexandre-bourdois) , Geoffroy PIGEON, Paul MOREAU.
